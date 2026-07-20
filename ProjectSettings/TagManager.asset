@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Cube
+  - VictoryPanel
+  - GameOverPanel
+  - UI
+  - Ground
   layers:
   - Default
   - TransparentFX
